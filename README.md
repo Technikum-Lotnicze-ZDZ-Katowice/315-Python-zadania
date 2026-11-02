@@ -25,11 +25,13 @@ Uwaga: Przyjmij, że użytkownik wprowadza liczby całkowite, wg wzoru ![bmi](bm
 13. Napisz program, który dla liczb a, b, c i d obliczy i wyświetli sumę wartości bezwzględnych różnic |a-b|+|b-a|+|c-d| Program powinien się posługiwać wyłącznie instrukcjami if oraz dodawaniem i odejmowaniem.
 
 14. Napisz program wyznaczający wszystkie dzielniki liczby podanej przez użytkownika.
+    
+16. Wypisz kolejne liczby parzyste z zakresu podanego przez uzytkownika. pobierz zakres = start i end
 
-15. Napisz program sprawdzający czy podana liczba jest liczbą pierwszą.
+17. Napisz program sprawdzający czy podana liczba jest liczbą pierwszą.
 
-16. Napisz program obliczający silnię liczby podanej przez użytkownika (5! = 1 * 2 * 3 * 4 * 5).
+18. Napisz program obliczający silnię liczby podanej przez użytkownika (5! = 1 * 2 * 3 * 4 * 5).
 
-17. Liczba 362 881 ma tę własność, że przy dzieleniu przez 2, 3, 4, 5, 6, 7, 8, 9 daje resztę 1. Znajdź najmniejszą liczbę o tej własności.
+19. Liczba 362 881 ma tę własność, że przy dzieleniu przez 2, 3, 4, 5, 6, 7, 8, 9 daje resztę 1. Znajdź najmniejszą liczbę o tej własności.
 
-18. Napisz program obliczający średnią z dowolnej ilości liczb podanych przez użytkownika (zakończ pobieranie liczb po wpisaniu 0)
+20. Napisz program obliczający średnią z dowolnej ilości liczb podanych przez użytkownika (zakończ pobieranie liczb po wpisaniu 0)
